@@ -1,0 +1,49 @@
+html{
+    font-family: 'Balsamiq Sans', cursive;
+    color: #9168F0;
+    background-color: black;
+    
+}
+h1{
+    text-align: center;
+}
+table{
+    
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    height: 20px;
+    width: 20px;  
+}
+th{    
+    text-align: center;
+    color: white;
+    background-color: #9168F0;
+    border: solid;
+}
+
+.dia{
+    background-color: #9168F0;
+    color: white;
+    height: 12px;
+    width: 10px;
+}
+tbody td{
+    background-color: #9F52D9;
+    color: white;
+    margin: auto; 
+    border:solid;  
+}
+
+tbody tr {
+    background-color: #5652D9;
+    border: solid;
+}
+
+.btn, a:hover{
+    background-color: #5E83F8;
+    color: white;
+}
+
+
+
